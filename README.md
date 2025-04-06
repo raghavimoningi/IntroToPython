@@ -123,8 +123,8 @@ This project showcases key data analysis skills using Python by working with the
 
 **Your Name**  
 Python Data Enthusiast | Data Science Learner  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
+📧 [moningi.raghavi@gmail.com](mailto:your.email@example.com)  
+🔗 [GitHub](https://github.com/raghavimoningi) • [LinkedIn](https://linkedin.com/in/moningi-raghavi-34212627/)
 
 ---
 
